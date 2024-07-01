@@ -1,0 +1,62 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "world.tmx",
+    "expandedProjectPaths": [
+        "Untitled/assets/fonts",
+        "Untitled/assets",
+        ".",
+        "Untitled"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "4-Bit Side Scroller Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset_master.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "world.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1825.6666666666665,
+                "y": 199.99999999999997
+            }
+        },
+        "world2.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 119.75,
+                "y": 100.5
+            }
+        }
+    },
+    "last.imagePath": "/Users/Ethan/Downloads",
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "world.tmx",
+        "tileset_master.tsx",
+        "4-Bit Side Scroller Tiles.tsx"
+    ],
+    "project": "Platformer.tiled-project",
+    "recentFiles": [
+        "4-Bit Side Scroller Tiles.tsx",
+        "tileset_master.tsx",
+        "world.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

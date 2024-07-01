@@ -4,7 +4,7 @@
  <tileset firstgid="9" source="loose sprites gbstudio (1).tsx"/>
  <layer id="1" name="Tile Layer 1" width="4" height="1">
   <data encoding="csv">
-9,10,11,12
+9,10,2147483659,2147483660
 </data>
  </layer>
 </map>

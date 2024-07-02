@@ -38094,7 +38094,7 @@
         "showCollisionSlopeTiles": true,
         "showCollisionExtraTiles": true,
         "worldScrollX": 0,
-        "worldScrollY": 245,
+        "worldScrollY": 0,
         "zoom": 200,
         "sgbEnabled": false,
         "customHead": "",

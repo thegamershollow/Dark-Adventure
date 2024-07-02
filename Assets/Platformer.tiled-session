@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "loose sprites gbstudio.tsx",
+    "activeFile": "world4.tmx",
     "expandedProjectPaths": [
-        ".",
-        "Untitled",
         "Untitled/assets",
+        "Untitled",
+        ".",
         "Untitled/assets/fonts"
     ],
     "fileStates": {
@@ -50,6 +50,14 @@
                 "x": 119.75,
                 "y": 100.5
             }
+        },
+        "world4.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 483.25,
+                "y": 193
+            }
         }
     },
     "last.imagePath": "/Users/Ethan/Documents/Github/GBGame/Assets/gbtileset/tileset",
@@ -59,15 +67,13 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
-        "4-Bit Side Scroller Tiles.tsx",
-        "tileset_master.tsx",
-        "loose sprites gbstudio.tsx",
-        "loose sprites gbstudio.tsx",
-        "loose sprites gbstudio (1).tsx"
+        "world4.tmx",
+        "tileset_master.tsx"
     ],
     "project": "Platformer.tiled-project",
     "recentFiles": [
         "tileset_master.tsx",
+        "world4.tmx",
         "4-Bit Side Scroller Tiles.tsx",
         "loose sprites gbstudio (1).tsx",
         "loose sprites gbstudio.tsx",

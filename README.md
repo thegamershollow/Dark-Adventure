@@ -1,2 +1,2 @@
-# GBGame
-A gameboy game written in gb studio
+# Dark Adventure
+A Simple Gameboy game written in GB Studio
